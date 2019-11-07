@@ -1,0 +1,31 @@
+{
+  "name": "baver_messenger",
+  "version": "0.0.1",
+  "description": "Test application to provide chat and file transer functionality in real time",
+  "keywords": [
+    "NodeJS",
+    "AngularJS",
+    "Web Sockets",
+    "File Sharing"
+  ],
+  "author": "Naphish Lashba Raj Naphish@baveriq.com",
+  "homepage": "https://github.com/NaphNinja",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/systenics/ChatRoom.git"
+  },
+  "private": "false",
+  "bundleDependencies": [
+    "passport.socketio"
+  ],
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "3.2.*",
+    "formidable": "^1.0.17",
+    "fs": "0.0.2",
+    "multer": "^0.1.8",
+    "socket.io": "^1.3.5",
+    "util": "^0.10.3"
+  },
+  "license": "MIT"
+}

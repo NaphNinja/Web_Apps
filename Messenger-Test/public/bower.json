@@ -1,0 +1,29 @@
+{
+  "name": "baver_messenger",
+  "version": "0.0.0",
+  "authors": [
+    "Naphish Lashba Raj <Naphish@baveriq.com>"
+  ],
+  "description": "Messenger Application that allows chat and file sharing in realtime",
+  "keywords": [
+    "Nodejs",
+    "File-Sharing",
+    "AngularJS",
+    "baver"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/plugins",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "angular-resource": "~1.4.1",
+    "angular-route": "~1.4.1",
+    "lightbox2": "~2.8.1"
+  }
+}
